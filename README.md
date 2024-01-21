@@ -22,7 +22,7 @@ It is recommended to use a virtual environment to manage the dependencies for Yo
 
 3. Activate the virtual environment:
 
-   - On Unix/Linux:
+   - On macOS/Linux:
 
      ```bash
      source venv/bin/activate
