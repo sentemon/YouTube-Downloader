@@ -25,7 +25,7 @@ It is recommended to use a virtual environment to manage the dependencies for Yo
    - On macOS/Linux:
 
      ```bash
-     source venv/bin/activate
+     source env/bin/activate
      ```
 
    - On Windows (Command Prompt):
